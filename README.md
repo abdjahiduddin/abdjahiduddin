@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdjahiduddin
 - 👀 I’m interested in Cloud Computing and Back-End Developer
-- 🌱 I’m currently learning about Cloud Computing and Back-End Developer
+- 🌱 I’m currently learning about Cloud Computing and Backend Engineer
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
